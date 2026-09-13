@@ -25,34 +25,6 @@ I’m currently deepening my full-stack engineering skills through **[Full Stack
 
 ---
 
-### Featured Projects
-
-🗂️ **[Prep Tracker](https://github.com/mykola-lp/prep-tracker)** — a full-stack interview-preparation application for organizing topics, questions, notes, and progress in one dashboard instead of scattered notes.
-
-`React` `Express` `GraphQL` `PostgreSQL` `Sequelize` `Playwright` `Docker`
-
-🔗 [Live demo](https://prep-tracker-web.onrender.com/) · [Product scope](https://github.com/mykola-lp/prep-tracker/blob/main/docs/product-scope.md)
-
----
-
-📝 **[NextJS](https://github.com/mykola-lp/fs-nextjs)** — a blog platform built with the Next.js App Router, featuring authentication, a personal reading list, and a token-authenticated API route.
-
-`Next.js` `React` `NextAuth` `Drizzle ORM` `PostgreSQL` `Playwright`
-
-🔗 [Live demo](https://fs-nextjs-seven.vercel.app/)
-
----
-
-🏋️ **[Workout Gym](https://github.com/mykola-lp/workout-gym)** — a mobile-first fitness landing page, hand-coded without AI assistance.
-
-`HTML` `CSS` **mobile-first**
-
----
-
-🧪 **[AI Dev Journey](https://github.com/mykola-lp/ai-dev-journey)** — hands-on experiments exploring AI-assisted software development workflows, tooling, and practical development use cases.
-
----
-
 ### Tech Stack
 
 **Frontend:** `JavaScript` `TypeScript` `React` `Next.js` `React Router` `Redux` `Zustand` `Vite` `CSS` `SCSS` `TailwindCSS`
