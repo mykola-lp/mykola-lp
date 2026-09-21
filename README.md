@@ -2,11 +2,11 @@
 
 # Hi, I'm Mykola 👋
 
-**Full-Stack Developer · JavaScript / TypeScript · React · Next.js · Node.js**
+**Full-Stack Developer | JavaScript / TypeScript · React · Next.js · Node.js | AI-assisted development**
 
 <p>
-  Building complete web applications with a focus on architecture, APIs,
-  databases, testing, CI/CD, and production-oriented engineering.
+  Full-stack web developer working with JavaScript and TypeScript, from React and Next.js on the front to Node.js and databases on the back.
+  I use Claude Code and Codex as tools, and I still read and understand the code they write.
 </p>
 
 </div>
@@ -15,9 +15,9 @@
 
 ### About
 
-I build modern full-stack web applications with a focus on **JavaScript/TypeScript**, **React**, **Next.js**, and **Node.js**.
+I build modern full-stack web applications with a focus on **JavaScript/TypeScript**, **React**, **Next.js**, **Node.js**, etc.
 
-My background includes **4 years of hands-on experience with Drupal 8/9 (PHP/CMS)**, **1 year working with SAP R/3**, and **additional hands-on exposure to security testing**, giving me experience across modern web development, enterprise systems, and security practices.
+My background includes **4+ years of hands-on experience with Drupal 8/9 (PHP/CMS)**, **1+ year working with SAP R/3 (FI)**, and **additional hands-on exposure to security testing**, giving me experience across modern web development, enterprise systems, and security practices.
 
 I’m currently deepening my full-stack engineering skills through **[Full Stack Open](https://fullstackopen.com/en/)** from the University of Helsinki, with a focus on application architecture, APIs, databases, testing, CI/CD, containers, and production-oriented development practices.
 
@@ -27,19 +27,23 @@ I’m currently deepening my full-stack engineering skills through **[Full Stack
 
 ### Tech Stack
 
-**Frontend:** `JavaScript` `TypeScript` `React` `Next.js` `React Router` `Redux` `Zustand` `Vite` `CSS` `SCSS` `TailwindCSS`
+**Core:** `JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express`
 
-**Backend:** `Node.js` `Express` `REST API` `GraphQL` `Apollo` `JWT` `bcrypt` `WebSockets`
+**Frontend & Tooling:** `React Router` `Redux` `Zustand` `Vite` `HTML` `CSS` `SCSS` `ESLint`
 
-**Databases & ORM:** `PostgreSQL` `MongoDB` `Sequelize` `Mongoose` `Drizzle ORM`
+**Data:** `PostgreSQL` `MongoDB` `Drizzle ORM` `Sequelize` `Mongoose`
 
-**Testing:** `Vitest` `React Testing Library` `Playwright`
+**API & Auth:** `REST API` `GraphQL` `Apollo` `JWT` `bcrypt` `WebSockets`
 
-**DevOps & Engineering:** `Git` `GitHub` `GitHub Actions` `Docker` `Docker Compose` `ESLint` `CI/CD`
+**Testing:** `Vitest` `React Testing Library` `Playwright` `TDD`
+
+**DevOps:** `Git` `GitHub` `GitHub Actions (CI/CD)` `Docker` `Docker Compose` `Kubernetes`
 
 **Mobile:** `React Native` `Expo`
 
-**Previous Experience:** `PHP 8.0` `Drupal 8/9` `MariaDB` `composer` `Vagrant` `SAP R/3 (ABAP/4)` `SAPscript` `Oracle DataBase` `Jira`
+**AI-assisted:** `Claude Code` `Codex`
+
+**Previous Experience:** `Drupal 8/9` `PHP 8.x` `Twig` `Composer` `MariaDB` `Redis` `Solr` `Nginx` `Apache` `Vagrant` `Lando` `SAP R/3 (FI)` `ABAP/4` `SAPscript` `Oracle DB` `Jira`
 
 ---
 
