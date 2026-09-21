@@ -17,9 +17,9 @@
 
 My background includes **4+ years of hands-on experience with Drupal 8/9 (PHP/CMS)**, **1+ year working with SAP R/3 (FI)**, and **additional hands-on exposure to security testing**, giving me experience across modern web development, enterprise systems, and security practices.
 
-I’m currently deepening my full-stack engineering skills through **[Full Stack Open](https://fullstackopen.com/en/)** from the University of Helsinki, with a focus on application architecture, APIs, databases, testing, CI/CD, containers, and production-oriented development practices.
+I'm building on the full-stack engineering skills I gained through **[Full Stack Open](https://fullstackopen.com/en/)** from the University of Helsinki, with a focus on application architecture, APIs, databases, testing, CI/CD, containers, and production-oriented development practices.
 
-**Course exercises:** [coursework repo](https://github.com/mykola-lp/full-stack-open)
+**Code:** [full-stack-open](https://github.com/mykola-lp/full-stack-open)
 
 ---
 
