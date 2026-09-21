@@ -5,8 +5,7 @@
 **Full-Stack Developer | JavaScript / TypeScript · React · Next.js · Node.js | AI-assisted development**
 
 <p>
-  Full-stack web developer working with JavaScript and TypeScript, from React and Next.js on the front to Node.js and databases on the back.
-  I use Claude Code and Codex as tools, and I still read and understand the code they write.
+  Full-stack web developer working with JavaScript and TypeScript, from React and Next.js on the front to Node.js and databases on the back. I use Claude Code and Codex to support my development workflow, while writing, reviewing, and understanding the code I build.
 </p>
 
 </div>
