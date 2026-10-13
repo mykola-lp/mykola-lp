@@ -28,17 +28,19 @@ I'm building on the full-stack engineering skills I gained through **[Full Stack
 
 **Frontend & Tooling:** `React Router` `Redux` `Zustand` `Vite` `HTML` `CSS` `SCSS` `ESLint`
 
-**Data:** `PostgreSQL` `MongoDB` `Drizzle ORM` `Sequelize` `Mongoose`
+**Backend & APIs:** `REST APIs` `GraphQL`
 
-**API & Auth:** `REST API` `GraphQL` `Apollo` `JWT` `bcrypt` `WebSockets`
+**Data:** `PostgreSQL` `MongoDB`
 
 **Testing:** `Vitest` `React Testing Library` `Playwright` `TDD`
 
-**DevOps:** `Git` `GitHub` `GitHub Actions (CI/CD)` `Docker` `Docker Compose` `Kubernetes`
+**DevOps:** `Git` `GitHub` `GitHub Actions (CI/CD)` `Docker` `Vagrant` `Docker Compose`
 
-**Mobile:** `React Native` `Expo`
+**AI-assisted Development:** `Claude Code` `OpenAI Codex`
 
-**AI-assisted:** `Claude Code` `Codex`
+**Libraries & Tools:** `Apollo Client` `Sequelize` `Mongoose` `Drizzle ORM` `JWT` `bcrypt` `WebSockets` `npm`
+
+**Additional:** `React Native` `Expo` `Kubernetes`
 
 **Previous Experience:** `Drupal 8/9` `PHP 8.x` `Twig` `Composer` `MariaDB` `Redis` `Solr` `Nginx` `Apache` `Vagrant` `Lando` `SAP R/3 (FI)` `ABAP/4` `SAPscript` `Oracle DB` `Jira`
 
