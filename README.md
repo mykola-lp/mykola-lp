@@ -40,9 +40,9 @@ I'm building on the full-stack engineering skills I gained through **[Full Stack
 
 **Libraries & Tools:** `Apollo Client` `Sequelize` `Mongoose` `Drizzle ORM` `JWT` `bcrypt` `WebSockets` `npm`
 
-**Additional:** `React Native` `Expo` `Kubernetes` `TDD`
-
 **Previous Experience:** `Drupal 8/9` `PHP 8.x` `Twig` `Composer` `MariaDB` `Redis` `Solr` `Nginx` `Apache` `Vagrant` `Lando` `SAP R/3 (FI)` `ABAP/4` `SAPscript` `Oracle DB` `Jira`
+
+**Additional:** `React Native` `Expo` `Kubernetes` `TDD`
 
 ---
 
